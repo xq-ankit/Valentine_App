@@ -125,7 +125,7 @@ const YayPage = () => {
 
       <div className="mt-5">
         <a
-          href="https://chat.whatsapp.com/Ccjcgd1ANwTCdHvauVIrkp"
+          href="https://chat.whatsapp.com/HvDnySjnCybBhtcIj55lkY"
           target="_blank"
           rel="noopener noreferrer"
           className="px-6 py-3 text-lg font-semibold text-white bg-green-600 rounded-lg hover:bg-green-700 transition"
