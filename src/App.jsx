@@ -11,6 +11,7 @@ const Home = () => {
     "Are you sure?",
     "Think again!",
     "Last chance!",
+    "Khana denge 🥰",
     "Really? 😢",
     "Please don't say no...",
     "You might regret this...",
@@ -19,6 +20,8 @@ const Home = () => {
     "Don't do this to me! 🥺",
     "Think one more time!",
     "Final warning! 🚨",
+    "Itna bhaw 💔",
+    "Think about chowchow,chowmein",
     "My heart can't take this... 💔",
     "Please reconsider! 🙏",
     "You're breaking my heart! 💞",
@@ -29,32 +32,16 @@ const Home = () => {
     "You're better than this! 🥹",
     "Just one little yes? 🥰",
     "Are you 100% sure? 🤔",
-    "No takesy-backsies? 😟",
-    "Please? With a cherry on top! 🍒",
     "What if I give you a cookie? 🍪",
     "You're breaking my tiny heart! 💔",
     "Think of the possibilities! ✨",
     "But what if it's destiny? 🌟",
-    "Even my dog is sad now! 🐶💔",
+    "Even oreo is sad now! 🐶💔",
     "Let’s not be hasty! ⏳",
     "Rethink, refresh, retry? 😁",
     "It’s a trap! Say yes! 🎭",
     "Oops, wrong answer! 😜",
-    "You have unlocked: disappointment 😭",
-    "Even the stars are sad now! ✨😢",
-    "This is your sign to say YES! 🛑",
-    "The universe says yes! 🌌",
-    "One tiny yes won’t hurt! 🤭",
-    "No is just a sideways yes! 😉",
-    "You're my only hope! 🥹",
-    "What would a cat do? 🐱",
-    "I’ll remember this forever... 😢",
-    "Choose wisely... 😏",
-    "You're making me cry... 😭",
-    "Last, last, last chance!",
-    "Final offer: say yes? 😆",
-    "What if I say pretty please? 🥺",
-    "Are you REALLY sure? 🤨",
+    "Haan bolde bhai... 🥹"
   ];
 
   const navigate = useNavigate();
@@ -74,7 +61,7 @@ const Home = () => {
 
   return (
     <div className="flex flex-col items-center justify-center h-screen text-center bg-red-100">
-      <h1 className="text-3xl font-bold text-red-700">Will you be my Valentine?</h1>
+      <h1 className="text-3xl font-bold text-red-700"> Miss Khastagir,will you be my Valentine?</h1>
       
       <div className="mt-5">
         <img
